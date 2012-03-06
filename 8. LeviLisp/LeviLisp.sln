@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeviLisp", "LeviLisp\LeviLisp.csproj", "{83DC62FE-52CA-4319-BC5F-5E7217A906E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeviLisp.Tests", "LeviLisp.Tests\LeviLisp.Tests.csproj", "{4E40799C-3F86-4B62-9103-19A8FC77F70B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{98629696-BFCC-46AA-AF06-2815D834AAB7}"
+	ProjectSection(SolutionItems) = preProject
+		LeviLisp.vsmdi = LeviLisp.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = LeviLisp.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|Win32.ActiveCfg = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|x86.ActiveCfg = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Debug|x86.Build.0 = Debug|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|Any CPU.ActiveCfg = Release|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|Mixed Platforms.Build.0 = Release|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|Win32.ActiveCfg = Release|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|x86.ActiveCfg = Release|x86
+		{83DC62FE-52CA-4319-BC5F-5E7217A906E1}.Release|x86.Build.0 = Release|x86
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|Win32.ActiveCfg = Release|Any CPU
+		{4E40799C-3F86-4B62-9103-19A8FC77F70B}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
