@@ -17,4 +17,12 @@ namespace LeviLisp
 			return tokens.Select(t => t.Trim()).ToList();
 		}
 	}
+
+	public class LispLexer
+	{
+		public List<string> GetTokenList(string lispString)
+		{
+			throw new NotImplementedException();
+		}
+	}
 }
